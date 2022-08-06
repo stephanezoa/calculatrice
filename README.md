@@ -7,3 +7,8 @@ pip install venv
 python -m venv nom_de_l'environnement
 
 pip install -r requirements
+
+
+
+contact me telegram :
+https://t.me/Stephane_Zoa
